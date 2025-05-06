@@ -34,3 +34,7 @@ This project is a data analysis notebook and script that tracks global COVID-19 
 pip install pandas matplotlib seaborn plotly
 
 ```
+4. python covid_tracker.py
+
+
+
